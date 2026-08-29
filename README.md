@@ -1,6 +1,6 @@
 # 👋 Hola, soy Gabriela Barrera
 
-🎓 Estudiante de **Analista de Sistemas en ORT**
+🎓 Estudiante de la carrera de **Analista de Sistemas en ORT**
 
 💡 Curiosa, creativa y en constante aprendizaje.
 
